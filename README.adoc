@@ -1,0 +1,62 @@
+# How to get a Java Developer job as a fresher
+
+image::images/job.png[]
+
+
+### Who is this for?
+
+You are Computer Science / Information Technology graduate who -
+
+* Did not pay attention to the classes or practice much.
+* Know few basic syntax of Java.
+* *Now* wants a job.
+
+
+### What I do NOW?
+
+* Do not worry because I am going to tell you how.
+* Get a cold Coca-Cola.
+* Follow steps described below.
+
+
+### STEP 1: Prepare a kick ass CV
+
+* Follow good example CV, checkout some https://github.com/MBSTUPC/software-engineer-cv-examples-tips[examples].
+* Do not copy CV from friends.
+* Be unique and creative.
+
+
+### STEP 2: Learn top 100 interview questions
+
+* And their answers.
+* What are those questions? Answers are https://github.com/MBSTUPC/crack-java-developer-interview-fresher/blob/master/top-100-java-interview-questions-for-freshers.adoc[here].
+* Are you confident enough? Keep reading until you understand it.
+
+
+### STEP 3: Learn how to write program
+
+Learn how to write few basic well-known problem solution in Java.
+
+* Generate Fibonacci numbers.
+* Check if a number is a prime number.
+* // TODO:: add more.
+
+
+### STEP 4: Learn next top 200 interview questions
+
+* By only learning few programs and 100 questions answers might not get you a job.
+* So ... learn more // TODO:: add link here.
+
+
+### STEP 5: Keep applying for the job
+
+* Not getting calls for interviews? Go to step 1 and read what to do.
+
+
+### Contribute
+Contributions are always welcome! Create a pull request.
+
+
+### Copyright & License
+
+Licensed under the MIT License, see the link:LICENSE[LICENSE] file for details.
