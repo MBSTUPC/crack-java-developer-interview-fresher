@@ -5,14 +5,14 @@ image::images/job.png[]
 
 ### Who is this for?
 
-You are Computer Science / Information Technology graduate who -
+You are a Computer Science / Information Technology graduate who -
 
 * Did not pay attention to the classes or practice much.
 * Know few basic syntax of Java.
 * *Now* wants a job.
 
 
-### What I do NOW?
+### What do I do NOW?
 
 * Do not worry because I am going to tell you how.
 * Get a cold Coca-Cola.
