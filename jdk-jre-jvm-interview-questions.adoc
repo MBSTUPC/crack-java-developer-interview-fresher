@@ -1,0 +1,36 @@
+# JDK, JRE and JVM Interview Questions
+
+
+* Define JDK, JRE and JVM.
+
+* Why Java is platform independent?
+
+* What is bytecode?
+
+* How Garbage collection works?
+
+* What is Write Once, Run Anywhere (WORA) means?
+
+* What is classloader? What are the types of classloader?
+
+* What are different GC algorithms?
+
+* What are types of reference?
+
+* Discuss HotSpot JVM (Java Virtual Machine) Architecture in short?
+
+* What is Class Loader Subsystem of JVM? What is its functioning and purpose?
+
+* What are Runtime Data Areas of JVM? Discuss in detail?
+
+* What is Execution Engine of JVM?
+
+* What are most important/key HotSpot JVM components related to performance?
+
+* What is JIT Compiler (Just In Time Compiler)?
+
+* What are the most important JVM parameters?
+
+* How to terminate JVM?
+
+* How to find maximum memory available JVM can use?

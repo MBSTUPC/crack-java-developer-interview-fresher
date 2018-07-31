@@ -1,0 +1,68 @@
+# Top Java Interview Questions for Freshers
+
+Questions are listed here, Google for the answers.
+
+## Java, JDK, JRE and JVM
+* Is Java a Pure Object oriented Language?
+* Define JDK, JRE and JVM.
+* Why Java is platform independent?
+* What is bytecode?
+* How Garbage collection works in Java?
+
+Learn link:jdk-jre-jvm-interview-questions.adoc[more] on JDK, JRE and JVM.
+
+
+## Core Java
+* Explain the keywords final, finally, and finalize?
+* what is constructor? Difference between constructor and method?
+* What is casting?
+* What is an immutable object? How to write immutable class?
+* What is the meaning of immutable in terms of String?
+* What is the difference between String and StringBuffer object?
+* Differentiate between StringBuffer and StringBuilder?
+* What is static block?
+* Difference between comparison done by equals method and == operator?
+* What is Anonymous class?
+
+
+## Exception
+* What is Exception Handling?
+* Difference between Checked and Unchecked exceptions?
+* What is the base class for Error and Exception?
+* What is finally block?
+* Is there any case when finally will not be executed?
+* What is difference between throw and throws?
+* Can overriding method throw an exception if parent class method doesn't throw an exception?
+
+
+## OOP
+* Difference between Abstract class and Interface?
+* Difference between Overloading and Overriding?
+* What is multiple inheritance? Is it supported by Java?
+* What is a class, object?
+* Difference between Public, Private, Default and Protected?
+* Is it possible to override private or static method?
+* Can you declare an interface method static?
+* What is nested class?
+* Difference between nested classes and inner classes?
+* What is marker interface?
+
+
+## Collection Framework
+* What is Collection Framework in Java?
+* What is the difference between array, List, Set and Map?
+* Advantage of Collection classes over Arrays?
+* When do you override hashcode and equals methods?
+* Difference between ArrayList and LinkedList?
+* Difference between Comparable and Comparator?
+* How to synchronize List, Set and Map elements?
+
+
+### Threads
+* What are the two ways of implementing multi-threading in Java?
+* What is multi-threading?
+* What is difference between wait() and sleep() method?
+* What is synchronization?
+* What is the purpose of Synchronized block?
+* What is deadlock?
+

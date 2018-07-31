@@ -26,10 +26,9 @@ You are a Computer Science / Information Technology graduate who -
 * Be unique and creative.
 
 
-### STEP 2: Learn top 100 interview questions
+### STEP 2: Learn top interview questions
 
-* And their answers.
-* What are those questions? Answers are https://github.com/MBSTUPC/crack-java-developer-interview-fresher/blob/master/top-100-java-interview-questions-for-freshers.adoc[here].
+* link:top-java-interview-questions-for-freshers.adoc[Top questions are listed here, Google for the answers].
 * Are you confident enough? Keep reading until you understand it.
 
 
@@ -42,10 +41,13 @@ Learn how to write few basic well-known problem solution in Java.
 * // TODO:: add more.
 
 
-### STEP 4: Learn next top 200 interview questions
+### STEP 4: Learn more, learn deep
 
-* By only learning few programs and 100 questions answers might not get you a job.
-* So ... learn more // TODO:: add link here.
+* By only learning few programs and top questions answers might not get you a job.
+* You need to study following topics too -
+** Web Programming in Java
+** Database
+** Linux
 
 
 ### STEP 5: Keep applying for the job
