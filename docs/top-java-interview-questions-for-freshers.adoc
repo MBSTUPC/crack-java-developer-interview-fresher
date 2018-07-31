@@ -9,7 +9,7 @@ Questions are listed here, Google for the answers.
 * What is bytecode?
 * How Garbage collection works in Java?
 
-Learn link:jdk-jre-jvm-interview-questions.adoc[more] on JDK, JRE and JVM.
+Learn link:docs/jdk-jre-jvm-interview-questions.adoc[more] on JDK, JRE and JVM.
 
 
 ## Core Java

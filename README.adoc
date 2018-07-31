@@ -28,7 +28,7 @@ You are a Computer Science / Information Technology graduate who -
 
 ### STEP 2: Learn top interview questions
 
-* link:top-java-interview-questions-for-freshers.adoc[Top questions are listed here, Google for the answers].
+* link:docs/top-java-interview-questions-for-freshers.adoc[Top questions are listed here, Google for the answers].
 * Are you confident enough? Keep reading until you understand it.
 
 
