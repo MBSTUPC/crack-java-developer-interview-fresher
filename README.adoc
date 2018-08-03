@@ -37,8 +37,21 @@ You are a Computer Science / Information Technology graduate who -
 Learn how to write few basic well-known problem solution in Java.
 
 * Generate Fibonacci numbers.
+* Fibonacci series with Recursive
+* Find factorial of a number.
 * Check if a number is a prime number.
-* // TODO:: add more.
+* Check if a number is odd or even?
+* Reverse a String.
+* Check If String is palindrome.
+* Swapping Numbers without using 3rd variable.
+* Find number of words in String.
+* Print Floyd Triangle.
+* Binary Search.
+* Bubble Sort.
+* Reverse a number.
+* Remove duplicates from array.
+* ... and many more. Just Google for "Java interview questions".
+
 
 
 ### STEP 4: Learn more, learn deep
@@ -53,6 +66,11 @@ Learn how to write few basic well-known problem solution in Java.
 ### STEP 5: Keep applying for the job
 
 * Not getting calls for interviews? Go to step 1 and read what to do.
+
+
+### Similar Repo
+
+There are tons on repositories in Github related to interviews. See it by yourself, https://github.com/search?o=desc&q=interview&s=stars&type=Repositories[GO!]
 
 
 ### Contribute
