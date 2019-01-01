@@ -73,6 +73,12 @@ Learn how to write few basic well-known problem solution in Java.
 There are tons on repositories in Github related to interviews. See it by yourself, https://github.com/search?o=desc&q=interview&s=stars&type=Repositories[GO!]
 
 
+### How to study for interviews
+* https://www.youtube.com/watch?v=ukLnPbIffxE[How to study for exams - Evidence-based revision tips]
+* https://www.youtube.com/watch?v=Z-zNHHpXoMM[How to study for exams PART 2 - Evidence-based revision tips + Spaced
+Repetition]
+
+
 ### Contribute
 Contributions are always welcome! Create a pull request.
 
